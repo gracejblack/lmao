@@ -8,7 +8,9 @@ img {
 	height: 1000px;
 	width: 1000px;
 }
-
 #first-ingredient {
 	color: red;
-}	
+}
+.section-heading {
+	background-color: tomato; 
+}
