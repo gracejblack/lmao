@@ -7,4 +7,6 @@ ul {
 img {
 	height: 200px;
 	width: 300px;
+	border: 3 px green dashed;
+	padding: 5px;
 }
